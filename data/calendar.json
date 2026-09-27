@@ -1,0 +1,177 @@
+[
+  {
+    "date": "2024-01-14",
+    "event": "Makar Sankranti / Pongal (major surge in DEL-MAA and BLR routes)",
+    "type": "festival"
+  },
+  {
+    "date": "2024-01-26",
+    "event": "Republic Day long weekend",
+    "type": "national_holiday"
+  },
+  {
+    "date": "2024-03-25",
+    "event": "Holi – North India travel surge (DEL-BOM, DEL-BLR)",
+    "type": "festival"
+  },
+  {
+    "date": "2024-04-09",
+    "event": "Ugadi / Gudi Padwa – South/West India surge (BOM-BLR)",
+    "type": "festival"
+  },
+  {
+    "date": "2024-04-14",
+    "event": "Tamil New Year / Baisakhi",
+    "type": "festival"
+  },
+  {
+    "date": "2024-04-17",
+    "event": "Ram Navami",
+    "type": "festival"
+  },
+  {
+    "date": "2024-05-23",
+    "event": "Buddha Purnima long weekend",
+    "type": "national_holiday"
+  },
+  {
+    "date": "2024-06-17",
+    "event": "Eid ul-Adha (Bakrid) – domestic travel surge",
+    "type": "festival"
+  },
+  {
+    "date": "2024-08-15",
+    "event": "Independence Day long weekend",
+    "type": "national_holiday"
+  },
+  {
+    "date": "2024-10-02",
+    "event": "Gandhi Jayanti / Navratri begins – extended long weekend",
+    "type": "national_holiday"
+  },
+  {
+    "date": "2024-10-13",
+    "event": "Dussehra (Vijayadasami)",
+    "type": "festival"
+  },
+  {
+    "date": "2024-11-01",
+    "event": "Diwali / Deepavali – peak domestic air travel",
+    "type": "festival"
+  },
+  {
+    "date": "2024-11-15",
+    "event": "Guru Nanak Jayanti",
+    "type": "festival"
+  },
+  {
+    "date": "2024-12-25",
+    "event": "Christmas long weekend – peak leisure travel",
+    "type": "holiday"
+  },
+  {
+    "date": "2024-12-31",
+    "event": "New Year's Eve – very high demand on all metro routes",
+    "type": "holiday"
+  },
+  {
+    "date": "2025-01-26",
+    "event": "Republic Day long weekend",
+    "type": "national_holiday"
+  },
+  {
+    "date": "2025-03-14",
+    "event": "Holi – North India travel surge",
+    "type": "festival"
+  },
+  {
+    "date": "2025-04-02",
+    "event": "Ram Navami",
+    "type": "festival"
+  },
+  {
+    "date": "2025-04-30",
+    "event": "Akshaya Tritiya – auspicious travel dates, demand spike",
+    "type": "festival"
+  },
+  {
+    "date": "2025-05-12",
+    "event": "Buddha Purnima",
+    "type": "festival"
+  },
+  {
+    "date": "2025-06-07",
+    "event": "Eid ul-Adha (Bakrid)",
+    "type": "festival"
+  },
+  {
+    "date": "2025-08-15",
+    "event": "Independence Day long weekend",
+    "type": "national_holiday"
+  },
+  {
+    "date": "2025-10-02",
+    "event": "Gandhi Jayanti – long weekend (Navratri window)",
+    "type": "national_holiday"
+  },
+  {
+    "date": "2025-10-22",
+    "event": "Dussehra",
+    "type": "festival"
+  },
+  {
+    "date": "2025-10-20",
+    "event": "Diwali / Deepavali – peak domestic travel",
+    "type": "festival"
+  },
+  {
+    "date": "2025-11-05",
+    "event": "Guru Nanak Jayanti",
+    "type": "festival"
+  },
+  {
+    "date": "2025-12-25",
+    "event": "Christmas long weekend",
+    "type": "holiday"
+  },
+  {
+    "date": "2025-12-31",
+    "event": "New Year's Eve – peak demand across all routes",
+    "type": "holiday"
+  },
+  {
+    "date": "2026-01-26",
+    "event": "Republic Day long weekend",
+    "type": "national_holiday"
+  },
+  {
+    "date": "2026-03-03",
+    "event": "Holi – North India travel surge",
+    "type": "festival"
+  },
+  {
+    "date": "2026-08-15",
+    "event": "Independence Day",
+    "type": "national_holiday"
+  },
+  {
+    "date": "2026-10-02",
+    "event": "Gandhi Jayanti – long weekend",
+    "type": "national_holiday"
+  },
+  {
+    "date": "2026-11-08",
+    "event": "Diwali / Deepavali – peak domestic travel",
+    "type": "festival"
+  },
+  {
+    "date": "2026-12-25",
+    "event": "Christmas long weekend",
+    "type": "holiday"
+  },
+  {
+    "date": "2026-12-31",
+    "event": "New Year's Eve",
+    "type": "holiday"
+  }
+]
